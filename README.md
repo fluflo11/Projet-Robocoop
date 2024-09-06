@@ -9,7 +9,7 @@ commandes automatiques à un pilotage manuel.
 
 ## Présentation du projet
 
-*Le choix des méthodes de planification de vol et de technologies embarquées, ainsi que le budget et de législation concernant ce projet seront abordés plus bas plus bas.*
+*Le choix des méthodes de planification de vol et de technologies embarquées, ainsi que le budget et de législation concernant ce projet seront abordés plus bas.*
 
 L'intérêt principal serait de mobiliser et surtout de développer des compétences et techniques très diverses : Compétences en robotique et électronique, 
 software engineering, conception de systèmes embarqués... tout ce qui touche de près ou de loin à la mécatronique. 
