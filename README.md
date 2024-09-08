@@ -4,6 +4,8 @@
 Un projet de drone semi autonome permettant de passer d'un mode de 
 commandes automatiques à un pilotage manuel.
 
+L'objectif de ce repo est de présenter le projet ainsi que de centraliser les ressources nécessaires à la complétion de ce dernier.
+
 
 
 
