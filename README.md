@@ -1,5 +1,5 @@
 
-# Engin de vol semi autonome à aile fixe
+# Engin Semi Autonome à Aile Fixe
 
 Un projet de drone semi autonome permettant de passer d'un mode de 
 commandes automatiques à un pilotage manuel.
